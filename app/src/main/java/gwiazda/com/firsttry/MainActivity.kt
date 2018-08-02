@@ -18,7 +18,9 @@ class MainActivity : AppCompatActivity() {
     fun toastMe(view : View){
         //val myToast = Toast.makeText(this,message, duration)
         val myToast = Toast.makeText(this, "Hello Toast!", Toast.LENGTH_SHORT)
-        myToast.show()
+//        myToast.show()
+        val mapsIntent = Intent(this, MapsActivity::class.java)
+        startActivity(mapsIntent)
     }
 
     fun countMe(view: View){

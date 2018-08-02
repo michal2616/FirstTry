@@ -2,4 +2,5 @@
     <string name="app_name">FirstTry</string>
     <string name="hello_world_text">0</string>
     <string name="random_heading">Here is a random number between 0 and %1d</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibWljaGFsMjYxNiIsImEiOiJjamtjcjFsMmozZjc5M3FxcW1neDZhYWdjIn0.et_hyJE3d1QNtd51s_v2oQ</string>
 </resources>
